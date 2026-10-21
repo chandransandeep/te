@@ -20,7 +20,7 @@ window.deleteDoc = deleteDoc;
 
 // Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCmlSLhRNeOrEG4aT9t-JK20QAjzpdELVc",
+  apiKey: "REPLACE_WITH_FIREBASE_WEB_API_KEY",
   authDomain: "studybuddy-58e84.firebaseapp.com",
   projectId: "studybuddy-58e84",
   storageBucket: "studybuddy-58e84.firebasestorage.app",
